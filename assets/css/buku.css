@@ -1,0 +1,28 @@
+body {
+    background-color: #f2f4f8;
+}
+
+.container-card {
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 15px rgba(0,0,0,0.05);
+}
+
+h2 {
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    color: #333;
+}
+
+.table th {
+    background-color: #f8f9fa;
+}
+
+.alert {
+    font-size: 0.95rem;
+}
+
+.btn {
+    font-weight: 500;
+}
