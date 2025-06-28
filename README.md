@@ -88,4 +88,4 @@ Aplikasi ini memiliki fitur utama seperti login user, CRUD buku dan peminjaman, 
 ![Cetak Buku](assets/img/cetaklaporanbuku.png)
 
 ### 🖨️ Halaman Cetak Laporan Peminjaman
-![Cetak Peminjaman](assets/img/cetaklaporanpeminjaman.png)
+![Cetak Peminjaman](assets/img/cetaklaporanpeminjam.png)
